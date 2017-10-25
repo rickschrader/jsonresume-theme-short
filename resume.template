@@ -29,7 +29,7 @@
 			<div class="contact">
 				{{#if email}}
 				<span class="detail">
-					<a href="mailto:{{email}}">{{email}}</a>
+					<!--<a href="mailto:{{email}}">-->{{email}}<!--</a>-->
 				</span>
 				<br />
 				{{/if}}
